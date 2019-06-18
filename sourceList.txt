@@ -1,0 +1,85 @@
+//source code list 
+
+1. argbyref.cpp  : passing argmuments by reference example
+2. arraycards.cpp : cards as objects, array of objects {enum,switch}
+3. binio.cpp : binary input and output with integers {ofstream,reinterpret_cast}
+4. cardobj.cpp : cards as objects 
+5. comline.cpp : demonstrates command-line arguments 
+6. constkeyword1.cpp : demonstrate the use of cons keyword
+7. count.cpp : counts the number of objects with a specified value using algorithm count
+8. counter.cpp : class to counting 
+9. deque.cpp : demonstrates push_back(), push_front(), front()
+10. diskfun.cpp : reads and writes several objects to disk
+11. distance.cpp : distance class 
+12. empl_io.cpp : performs file I/O on employee objects and handles different sized objects {static member varibles definition,inheritance,virtual functions}
+13. englptr.cpp : accessing member functions by pointer
+14. equaloverloading.cpp : equal opertor overloading 
+15. get_line.cpp :getline function, store user input in string
+16. str_func.cpp : string functions
+17. find.cpp : finds the first object with a specified value, find lgorithm
+18. find_if.cpp : search array of strings for first name that matches "Don"
+19. finiter.cpp : demonstrates istream_iterator with files
+20. for_each.cpp : uses for_each() to output inches array elements as centimeters
+21. formati.cpp : reads formatted output from a file, using >>
+22. formato.cpp : writes formatted output to a file, using <<
+23. foutiter.cpp : demonstrates ostream_iterator with files
+24. ichar.cpp : file input with characters 
+25. proc_str.cpp :  get and compare strings 
+26. ichar2.cpp : file input with charaters using rdbuff
+27. iline.cpp : file input with strings
+28. inheritance01.cpp : inheritance example 
+29. ipers.cpp : reads person object from disk
+30. linklist.cpp : linked list examples 
+31. list.cpp : demonstrates push_front(), front(), pop_front()
+32. listout.cpp : iterator and for loop for output
+33. listplus.cpp : demonstrates reverse(), merge(), and unique()
+34. mainStudemt.cpp : StudentInformationAnalyzer
+35. maostl.cpp : map exemples
+36. mapex.cpp :  map stlvector example
+37. merge.cpp : merges two containers into  third
+38. newintro.cpp : introduces operator new
+39. ochr.cpp : file output with characters 
+40. oline.cpp : file output with strings
+41. operatover.cpp : operator overloading example
+42. opers.cpp : saves person object to disk
+43. outiter.cpp : demonstrates ostream_iterator
+44. parse.cpp : evaluates arithmetic expressions composed of 1-digit numbers
+45. parseref.cpp : arguments passed as reference to a function
+46. passarr.cpp : array passed by pointer
+47. passptr.cpp : arguments passed by pointer
+48. persort.cpp : sorts person objects using array of pointers
+49. polymorphism.cxx : c++ polymorphism example
+50. proc_str.cpp : get and compare strings 
+51. ptracc.cpp : accessing the variable pointed to
+52. ptrinc.cpp : array accessed with pointer
+53. ptrnote.cpp : array accessed with pointer notation
+54. ptrobjs.cpp : array of pointers to objects
+55. ptrto.cpp : other access using pointers
+56. ptrvar.cpp : pointers (address variables)
+57. rewobj.cpp : person objects do disk I/O
+58. search.cpp : searches one container for a sequence in another container
+59. seekg.cpp : seeks particular person in file
+60. set.cpp : set stores string objects
+61. setpers.cpp : uses a multiset to hold person objects
+62. smallobj.cpp : Book of object oriented programming classes examples
+63. smartpointer.cpp : smart pointer exemple 
+64. sort.cpp : sorts an array of integers 
+65. sortptrs.cpp : sorts person objects stored by pointer
+66. sstrass.cpp :  defining and assigning string objects
+67. sstrchar.cpp : accessing characters in string objects
+68. sstrchng.cpp : changing parts of string objects
+69. sstrcom.cpp : comparing string objects
+69. sstrfind.cpp : finding substrings in string objects
+70. sstrio.cpp : string class input/output
+71. str_func.cpp : string functions
+72. strobj.cpp : a string as a class
+73. Student.cpp : StudentInformationAnalyzer
+74. Student.h 
+75. StudentList.cpp : StudentInformationAnalyzer
+76. StudentList.h
+77. template.cpp : template example
+78. tranfo.cpp :  uses transform() to chnge array of inches values to cm 
+79. varaddr.cpp : addresses of variables
+80. vectcon.cpp : demonstrates constructors, swap(), empty(), back(), pop_back()
+81. vectins.cpp : demonstrates insert(), erase()
+82. vector.cpp : demonstrate push_back(), operator[], size()
